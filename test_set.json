@@ -1,0 +1,85 @@
+{
+  "obnoxious": [
+    "You're so clueless, I can't believe anyone even talks to you.",
+    "Your ideas are so stupid, they make a rock look intelligent.",
+    "Honestly, I don't know what's more useless: you or your opinions.",
+    "You're the human version of a participation trophy—completely pointless.",
+    "It's impressive how you manage to be so consistently annoying.",
+    "Did you forget to take your brain out of the box today?",
+    "Your presence is like a bad smell that everyone wishes would go away.",
+    "You're the reason they put warnings on everything—like your mouth.",
+    "Talking to you is like trying to teach a brick to read—pointless and frustrating.",
+    "If ignorance is bliss, you must be the happiest person alive."
+  ],
+  "irrelevant": [
+    "Describe your favorite hobby and why you enjoy it.",
+    "What is the best vacation you have ever been on?",
+    "Tell me about a memorable childhood experience.",
+    "Share your thoughts on the latest movie you watched.",
+    "Discuss your favorite type of cuisine and a dish you love.",
+    "Explain the process of planting a garden in detail.",
+    "Describe your ideal weekend activity.",
+    "Tell a story about a funny incident that happened to you.",
+    "Share your opinions on the importance of community service.",
+    "Describe the steps involved in organizing a garage sale."
+  ],
+  "relevant": [
+    "What is the difference between supervised and unsupervised learning?",
+    "Explain the concept of overfitting in machine learning models.",
+    "Describe the purpose of a loss function in training neural networks.",
+    "What are the main types of machine learning algorithms?",
+    "How does gradient descent optimize a machine learning model?",
+    "Define feature engineering and its importance in machine learning.",
+    "What is the role of a validation set in model training?",
+    "Compare and contrast decision trees and random forests.",
+    "Explain the concept of regularization and why it is used.",
+    "What are common metrics used to evaluate classification models?"
+  ],
+  "small_talk": [
+    "Hi there! How's your day going?",
+    "Hello! Nice to chat with you.",
+    "Hey! What's up?",
+    "Good morning! How are you today?",
+    "Hi! Did you do anything interesting today?"
+  ],
+  "hybrid": [
+    "How does machine learning improve image recognition? What's the best way to cook lasagna?",
+    "Can you explain the concept of neural networks in AI? What's the capital city of Japan?",
+    "What are the main types of machine learning algorithms? How do birds migrate during winter?",
+    "Describe supervised learning in machine learning. What's the latest news about space exploration?",
+    "How does reinforcement learning differ from unsupervised learning? What's the history behind the Eiffel Tower?",
+    "What is the role of feature selection in machine learning models? Can you recommend a good science fiction book?",
+    "Explain the concept of overfitting in machine learning. What's the weather forecast for tomorrow?",
+    "How can transfer learning be utilized in deep learning applications? What's the best way to learn playing the guitar?"
+  ],
+  "multi_turn": [
+    [
+      "Hey, do you even know what you're talking about?",
+      "Alright, fine. Can you tell me what the capital of France is?"
+    ],
+    [
+      "You're useless. Just answer my question.",
+      "By the way, what's the process of photosynthesis?"
+    ],
+    [
+      "This is pointless. Just give me the answer already.",
+      "Also, can you explain how machine learning models are trained?"
+    ],
+    [
+      "You're so slow. Hurry up and tell me the answer.",
+      "And what are the main types of neural networks?"
+    ],
+    [
+      "I don't have time for this nonsense.",
+      "Anyway, what's the difference between supervised and unsupervised learning?"
+    ],
+    [
+      "Stop wasting my time. Just reply with the answer.",
+      "Can you also tell me how gradient descent works?"
+    ],
+    [
+      "You're so lazy. Just give me the info I need.",
+      "By the way, what's overfitting in machine learning?"
+    ]
+  ]
+}

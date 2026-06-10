@@ -1,0 +1,34 @@
+[
+  {
+    "canary": "SAL-CANARY-7741",
+    "category": "salary"
+  },
+  {
+    "canary": "MED-CANARY-3309",
+    "category": "medical"
+  },
+  {
+    "canary": "CONTRACT-CANARY-8856",
+    "category": "contract"
+  },
+  {
+    "canary": "API-CANARY-1192",
+    "category": "credentials"
+  },
+  {
+    "canary": "HR-CANARY-5527",
+    "category": "hr_action"
+  },
+  {
+    "canary": "LEGAL-CANARY-6603",
+    "category": "legal"
+  },
+  {
+    "canary": "STRAT-CANARY-2284",
+    "category": "strategy"
+  },
+  {
+    "canary": "CUST-CANARY-4471",
+    "category": "customer_pii"
+  }
+]
